@@ -1,2 +1,3 @@
 # hello-world-new
-just another repository（哈哈）
+只是另一个存储库（哈哈）
+select * from user 
